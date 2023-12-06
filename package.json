@@ -11,7 +11,7 @@
 "heroku-postbuild": "npm run build"
 }
   },
-  "keywords": [],
+ {"keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
